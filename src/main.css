@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+  @apply border border-zinc-300 shadow-sm rounded-sm;
+}
